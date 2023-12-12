@@ -37,4 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Install Pocketbase
 
+./pocketbase.ext serve
+
 1. Login with Admin
